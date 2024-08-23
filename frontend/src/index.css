@@ -1,0 +1,26 @@
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+input {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h2, h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
